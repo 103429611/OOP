@@ -1,5 +1,12 @@
 # ignore all bin folders auto made by dotnet
 **/bin
+bin
+**/Bin
 
 # ignore all obj folders auto made by dotnet
 **/obj
+obj
+**/Obj
+
+# ignore all debug folders auto made by dotnet
+**/Debug
