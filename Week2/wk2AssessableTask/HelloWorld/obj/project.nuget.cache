@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuRqcZly7Xc=",
+  "dgSpecHash": "NS1k850VrSI=",
   "success": true,
-  "projectFilePath": "/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "/home/ashley/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ashley/Desktop/OOP/OOP/Week2/wk2AssessableTask/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

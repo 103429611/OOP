@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qt6QHdz6di0=",
+  "dgSpecHash": "VV+MTQtJIy8=",
   "success": true,
-  "projectFilePath": "/home/ashley/Desktop/OOP/Week1/OOP.csproj",
-  "expectedPackageFiles": [
-    "/home/ashley/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ashley/Desktop/OOP/OOP/Week1/OOP.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

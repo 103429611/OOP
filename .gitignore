@@ -1,0 +1,5 @@
+# ignore all bin folders auto made by dotnet
+**/bin
+
+# ignore all obj folders auto made by dotnet
+**/obj

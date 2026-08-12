@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EmwJ2uNLg0=",
+  "dgSpecHash": "eys3WNai63E=",
   "success": true,
-  "projectFilePath": "/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/HelloWorldViaFunction.csproj",
-  "expectedPackageFiles": [
-    "/home/ashley/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.10/microsoft.aspnetcore.app.ref.10.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ashley/Desktop/OOP/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/HelloWorldViaFunction.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
