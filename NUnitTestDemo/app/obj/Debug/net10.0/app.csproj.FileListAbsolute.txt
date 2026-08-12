@@ -1,0 +1,15 @@
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/bin/Debug/net10.0/app
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/bin/Debug/net10.0/app.deps.json
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/bin/Debug/net10.0/app.runtimeconfig.json
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/bin/Debug/net10.0/app.dll
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/bin/Debug/net10.0/app.pdb
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.AssemblyInfoInputs.cache
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.AssemblyInfo.cs
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.csproj.CoreCompileInputs.cache
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.sourcelink.json
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.dll
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/refint/app.dll
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.pdb
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/app.genruntimeconfig.cache
+/home/ashley/Desktop/OOP/NUnitTestDemo/app/obj/Debug/net10.0/ref/app.dll
