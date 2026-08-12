@@ -16,7 +16,7 @@ public class Tests
     [Test]
     public void Test2(){
         Message myMessage = new Message("This is the default message");
-        myMessage.Print():
+        myMessage.Print();
         string currentContent = myMessage.GetMessage();
 
         Assert.That(currentContent, Is.EqualTo("This is the default message"));
