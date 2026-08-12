@@ -1,0 +1,15 @@
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/bin/Debug/net10.0/CollectionsDemo
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/bin/Debug/net10.0/CollectionsDemo.deps.json
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/bin/Debug/net10.0/CollectionsDemo.runtimeconfig.json
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/bin/Debug/net10.0/CollectionsDemo.dll
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/bin/Debug/net10.0/CollectionsDemo.pdb
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.AssemblyInfoInputs.cache
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.AssemblyInfo.cs
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.csproj.CoreCompileInputs.cache
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.sourcelink.json
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.dll
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/refint/CollectionsDemo.dll
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.pdb
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/CollectionsDemo.genruntimeconfig.cache
+/home/ashley/Desktop/OOP/Week2/lab2/CollectionsDemo/obj/Debug/net10.0/ref/CollectionsDemo.dll

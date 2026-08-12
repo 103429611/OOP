@@ -1,0 +1,15 @@
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/bin/Debug/net10.0/HelloWorldViaFunction
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/bin/Debug/net10.0/HelloWorldViaFunction.deps.json
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/bin/Debug/net10.0/HelloWorldViaFunction.runtimeconfig.json
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/bin/Debug/net10.0/HelloWorldViaFunction.dll
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/bin/Debug/net10.0/HelloWorldViaFunction.pdb
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.AssemblyInfoInputs.cache
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.AssemblyInfo.cs
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.csproj.CoreCompileInputs.cache
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.sourcelink.json
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.dll
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/refint/HelloWorldViaFunction.dll
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.pdb
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/HelloWorldViaFunction.genruntimeconfig.cache
+/home/ashley/Desktop/OOP/Week2/wk2AssessableTask/HelloWorldViaFunction/obj/Debug/net10.0/ref/HelloWorldViaFunction.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ashley/Desktop/OOP/OOP/Week1/OOP.csproj": {}
+    "/home/ashley/Desktop/OOP/Week1/OOP.csproj": {}
   },
   "projects": {
-    "/Users/ashley/Desktop/OOP/OOP/Week1/OOP.csproj": {
+    "/home/ashley/Desktop/OOP/Week1/OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ashley/Desktop/OOP/OOP/Week1/OOP.csproj",
+        "projectUniqueName": "/home/ashley/Desktop/OOP/Week1/OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "/Users/ashley/Desktop/OOP/OOP/Week1/OOP.csproj",
-        "packagesPath": "/Users/ashley/.nuget/packages/",
-        "outputPath": "/Users/ashley/Desktop/OOP/OOP/Week1/obj/",
+        "projectPath": "/home/ashley/Desktop/OOP/Week1/OOP.csproj",
+        "packagesPath": "/home/ashley/.nuget/packages/",
+        "outputPath": "/home/ashley/Desktop/OOP/Week1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ashley/.nuget/NuGet/NuGet.Config"
+          "/home/ashley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -56,12 +54,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[10.0.10, 10.0.10]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
