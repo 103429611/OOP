@@ -1,4 +1,6 @@
 using System.Net.NetworkInformation;
+using System.Runtime.Serialization.Formatters;
+using System.Threading.Channels;
 
 namespace SwinburneAdventure
 {
@@ -18,6 +20,18 @@ namespace SwinburneAdventure
             //_identifiers[0] = "hello";
             //_identifiers[1] = "world";
 
+        }
+        public bool AddUniqueId(string id)
+        {
+            if (_identifiers.Contains(id.ToLower()))
+            {
+                return false;
+            }   
+            else
+            {
+                _identifiers.Add(id.ToLower());
+                return true;        
+            }
         }
 
         public bool AreYou(string id)

@@ -65,4 +65,11 @@ public class IdentifiableObjectTest
        // Assert.That(myPlayer.AreYou("Class Thursday morning"), Is.True);
         Assert.That(myPlayer.FirstID, Is.EqualTo("Class Thursday morning"));
     }
+
+    [Test]
+    public void TestAddUniqueId()
+    {
+        Assert.That (myPlayer.AddUniqueId("Hellow"),Is.True);
+        Assert.That(myPlayer.AddUniqueId("103429611"),Is.False);
+    }
 }

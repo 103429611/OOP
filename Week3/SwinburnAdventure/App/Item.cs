@@ -27,20 +27,20 @@ namespace SwinburneAdventure
         {
             return _identifiers.Contains(id.ToLower());
         }
-public string FirstID
-        {
-            get
-            {
-                if (_identifiers.Count > 0)
+        public string FirstID
                 {
-                    return _identifiers[0];
+                    get
+                    {
+                        if (_identifiers.Count > 0)
+                        {
+                            return _identifiers[0];
+                        }
+                        else
+                        {
+                            return "";
+                        }
+                    }
                 }
-                else
-                {
-                    return "";
-                }
-            }
-        }
 
         public string ShortDescription
         {

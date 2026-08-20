@@ -9,7 +9,7 @@ public class IdentifiableItemTest
     [SetUp]
     public void Setup()
     {
-        myItem = new Item(new string[] {"Sword"}, "Golden Sword", "A sword made of gold, it's not strong but it'pretty");
+        myItem = new Item(new string[] {"Sword"}, "Golden Sword", "A sword made of gold, it's not strong but it's pretty");
     }
 
 [   Test] 
@@ -32,7 +32,7 @@ public class IdentifiableItemTest
     [Test]
     public void TestFullDesc()
     {
-        Assert.That(myItem.LongDescription, Is.EqualTo("A sword made of gold, it's not strong but it'pretty"));
+        Assert.That(myItem.LongDescription, Is.EqualTo("A sword made of gold, it's not strong but it's pretty"));
     }
 
         [Test]
