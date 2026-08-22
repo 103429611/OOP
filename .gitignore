@@ -3,6 +3,11 @@
 bin
 **/Bin
 
+# ignore all bin folders auto made by dotnet
+**/lib
+lib
+**/lib
+
 # ignore all obj folders auto made by dotnet
 **/obj
 obj
